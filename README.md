@@ -95,14 +95,14 @@
 1. **克隆项目仓库**
 
 ```bash
-git clone https://github.com/yourusername/llmgraph-chat.git
-cd llmgraph-chat
+git clone https://github.com/chiheye/LLMGraphChat.git
+cd LLMGraphChat
 ```
 
 2. **安装依赖**
 
 ```bash
-pnpm install
+pnpm i
 ```
 
 3. **配置环境变量（可选）**
